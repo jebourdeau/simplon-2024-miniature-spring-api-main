@@ -21,6 +21,7 @@ fr\simplon\miniature\dto\LoginRequest.class
 fr\simplon\miniature\repositories\GroupRepository.class
 fr\simplon\miniature\dto\CreateGroupDTO.class
 fr\simplon\miniature\controllers\AuthController.class
+fr\simplon\miniature\config\WebConfig.class
 fr\simplon\miniature\MiniatureApplication.class
 fr\simplon\miniature\repositories\PostRepository.class
 fr\simplon\miniature\models\Attachment$AttachmentBuilder.class
